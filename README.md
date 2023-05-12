@@ -2,7 +2,7 @@
 Python Script to detect finger is open( 0 ) or close( 1 )
 <h1> Simply install pip install all necessery pakages and after that run code to test.</h1>
 
-<h1><Here is the ouput</h1>
+<h1><Here is the ouput of version 1</h1>
 
 
 
